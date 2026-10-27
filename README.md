@@ -24,3 +24,14 @@ as the official one applied by the Elasticsearch community (https://github.com/e
 the official patch is only available for ES `v7.16.1` and `v6.8.21`, this repository backports the patch
 to older versions, too. For
 further details have a look at the `Dockerfile`.
+
+
+---
+
+### Support / Unterstützung
+
+If my open-source contributions are useful to you, you can support my work voluntarily. Feedback, bug reports and contributions are just as welcome.
+
+Wenn dir meine Open-Source-Beiträge helfen, freue ich mich über freiwillige Unterstützung. Auch Feedback, Fehlermeldungen und Pull Requests helfen weiter.
+
+[Buy Me a Coffee](https://buymeacoffee.com/sly5ir9ov) · [PayPal](https://paypal.me/LarsM1980)
